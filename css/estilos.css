@@ -45,7 +45,8 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:#E9E2CE;
+    background: rgb(106,69,59);
+    background: linear-gradient(0deg, rgba(106,69,59,1) 0%, rgba(233,226,206,1) 30%);
     height: 200px;
     width: 100%;
 }
